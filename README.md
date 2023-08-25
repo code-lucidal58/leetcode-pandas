@@ -12,3 +12,9 @@ Leetcode questions under Pandas Explore Card
 * [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | [Solution](./fix_names_in_a_table.py)
 * [Find Users with Valid Emails](https://leetcode.com/problems/find-users-with-valid-e-mails) | [Solution](./find_users_with_valid_emails.py)
 * [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | [Solution](./patients_with_a_condition.py)
+### Data Manipulation
+* [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | [Solution](./nth_highest_salary.py)
+* [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | [Solution](./second_highest_salary.py)
+* [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [Solution](./department_highest_salary.py)
+* []() | [Solution]()
+* []() | [Solution]()
