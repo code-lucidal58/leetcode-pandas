@@ -16,5 +16,9 @@ Leetcode questions under Pandas Explore Card
 * [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | [Solution](./nth_highest_salary.py)
 * [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | [Solution](./second_highest_salary.py)
 * [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [Solution](./department_highest_salary.py)
-* []() | [Solution]()
+* [Rank Scores](https://leetcode.com/problems/rank-scores) | [Solution](./rank_scores.py)
+* [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [Solution](./delete_duplicate_emails.py)
+* [Rearrange Products Table]() | [Solution](./rearrange_products_table.py)
+### Statistics
+* [The Number of Rich Customers]() | [Solution]()
 * []() | [Solution]()
